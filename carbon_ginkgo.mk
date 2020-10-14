@@ -32,6 +32,9 @@ $(call inherit-product, vendor/carbon/config/common.mk)
 # MIUICamera stuff.
 $(call inherit-product, vendor/miuicamera/common/common-vendor.mk)
 
+# Screen Resolution
+TARGET_SCREEN_HEIGHT := 2340
+TARGET_SCREEN_WIDTH := 1080
 
 # Device identifier
 PRODUCT_NAME := carbon_ginkgo
