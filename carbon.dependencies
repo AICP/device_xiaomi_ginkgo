@@ -1,0 +1,10 @@
+[
+    {
+        "repository":   "CarbonROM/android_device_xiaomi_trinket-common",
+        "target_path":  "device/xiaomi/trinket-common"
+    },
+    {
+        "repository":   "CarbonROM/android_kernel_xiaomi_ginkgo",
+        "target_path":  "kernel/xiaomi/ginkgo"
+    }
+]
