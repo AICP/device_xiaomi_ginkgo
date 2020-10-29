@@ -29,9 +29,6 @@ $(call inherit-product, vendor/carbon/config/gsm.mk)
 # Inherit some common Carbon stuff.
 $(call inherit-product, vendor/carbon/config/common.mk) 
 
-# MIUICamera stuff.
-$(call inherit-product, vendor/miuicamera/common/common-vendor.mk)
-
 # Screen Resolution
 TARGET_SCREEN_HEIGHT := 2340
 TARGET_SCREEN_WIDTH := 1080
