@@ -7,7 +7,7 @@
 
 # Vendor blobs
 $(call inherit-product, vendor/xiaomi/ginkgo/ginkgo-vendor.mk)
-$(call inherit-product, vendor/miuicamera/common/common-vendor.mk)
+#$(call inherit-product, vendor/miuicamera/common/common-vendor.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
