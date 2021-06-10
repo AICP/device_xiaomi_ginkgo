@@ -8,5 +8,17 @@
         "repository": "AICP/kernel_xiaomi_ginkgo",
         "target_path": "kernel/xiaomi/ginkgo",
         "branch":      "r11.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "trinket-devs/vendor_miuicamera",
+        "target_path":  "vendor/miuicamera",
+        "branch":       "11.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "ThankYouMario/proprietary_vendor_qcom_sdclang",
+        "target_path":  "prebuilts/clang/host/linux-x86/clang-sdllvm",
+        "branch":       "ruby-12"
     }
 ]
