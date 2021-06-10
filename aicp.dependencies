@@ -1,0 +1,11 @@
+ 
+[
+    {
+        "repository": "AICP/proprietary_vendor_xiaomi",
+        "target_path": "vendor/xiaomi"
+    },
+    {
+        "repository": "AICP/kernel_xiaomi_ginkgo",
+        "target_path": "kernel/xiaomi/ginkgo
+    }
+]
