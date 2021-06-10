@@ -1,0 +1,12 @@
+[
+    {
+        "repository": "AICP/proprietary_vendor_xiaomi",
+        "target_path": "vendor/xiaomi",
+        "branch":      "r11.1"
+    },
+    {
+        "repository": "AICP/kernel_xiaomi_ginkgo",
+        "target_path": "kernel/xiaomi/ginkgo",
+        "branch":      "r11.1"
+    }
+]
