@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e32eb1c5_f3d33ed8",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2021-06-11T11:09:56Z",
+      "side": 1,
+      "message": "You don\u0027t need this as you already set KERNEL_SUPPORTS_LLVM_TOOLS :\u003d true\n\nCheck here: https://github.com/AICP/vendor_aicp/blob/r11.1/build/tasks/kernel.mk#L202",
+      "range": {
+        "startLine": 116,
+        "startChar": 0,
+        "endLine": 116,
+        "endChar": 124
+      },
+      "revId": "8f42f5c7817d42e14cbb9d3db81c4d245cd7d3fa",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
