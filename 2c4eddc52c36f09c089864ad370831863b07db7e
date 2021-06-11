@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "51e64e7d_74663b5b",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2021-06-11T11:12:28Z",
+      "side": 1,
+      "message": "You don\u0027t need this flag too as you already set KERNEL_SUPPORTS_LLVM_TOOLS :\u003d true\n\nCheck here: https://github.com/AICP/vendor_aicp/blob/r11.1/build/tasks/kernel.mk#L202",
+      "range": {
+        "startLine": 116,
+        "startChar": 0,
+        "endLine": 116,
+        "endChar": 124
+      },
+      "revId": "2c4eddc52c36f09c089864ad370831863b07db7e",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
