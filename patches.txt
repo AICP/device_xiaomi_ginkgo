@@ -1,0 +1,5 @@
+# pull patches from gerrit.
+#
+# frameworks/av
+110492/1 https://gerrit.aicp-rom.com frameworks/av
+110493/1 https://gerrit.aicp-rom.com frameworks/av 
