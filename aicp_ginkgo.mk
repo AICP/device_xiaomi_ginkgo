@@ -26,7 +26,7 @@ $(call inherit-product, device/xiaomi/ginkgo/device.mk)
 # Inherit some common AICP stuff
 TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 2340
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_INCLUDE_STOCK_ARCORE := false
 TARGET_INCLUDE_PIXEL_CHARGER := true
 $(call inherit-product, vendor/aicp/config/common_full_phone.mk)
