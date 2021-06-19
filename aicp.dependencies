@@ -8,11 +8,5 @@
         "repository": "AICP/kernel_xiaomi_ginkgo",
         "target_path": "kernel/xiaomi/ginkgo",
         "branch":      "r11.1"
-    },
-    {
-        "remote":       "github",
-        "repository":   "trinket-devs/vendor_miuicamera",
-        "target_path":  "vendor/miuicamera",
-        "branch":       "11.0"
     }
 ]
