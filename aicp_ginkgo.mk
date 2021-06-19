@@ -42,3 +42,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 PRODUCT_OVERRIDE_INFO := true
 PRODUCT_OVERRIDE_FINGERPRINT := Xiaomi/dipper/dipper:8.1.0/OPM1.171019.011/V9.5.5.0.OEAMIFA:user/release-keys
 
+#AICP Device Maintainer
+PRODUCT_BUILD_PROP_OVERRIDES += \
+	DEVICE_MAINTAINERS="Justine Ryan De Guia (Tokatsu)"
