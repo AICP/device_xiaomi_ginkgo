@@ -3,3 +3,4 @@
 # frameworks/av
 110492/1 https://gerrit.aicp-rom.com frameworks/av
 110493/1 https://gerrit.aicp-rom.com frameworks/av 
+110634/1 https://gerrit.aicp-rom.com hardware/qcom-caf/sm8150/display
