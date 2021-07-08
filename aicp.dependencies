@@ -3,5 +3,11 @@
         "repository": "AICP/kernel_xiaomi_ginkgo",
         "target_path": "kernel/xiaomi/ginkgo",
         "branch":      "r11.1"
+    },
+    {
+       "remote": "github",
+       "repository": "LineageOS/android_vendor_qcom_opensource_healthd-ext",
+       "target_path": "vendor/qcom/opensource/healthd-ext",
+       "branch": "lineage-18.1"
     }
 ]
