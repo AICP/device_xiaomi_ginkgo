@@ -301,6 +301,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     XiaomiParts
 
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/XiaomiParts/init.xiaomiparts.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/init.xiaomiparts.rc
+
 # Optimize
 PRODUCT_ALWAYS_PREOPT_EXTRACTED_APK := true
 PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
