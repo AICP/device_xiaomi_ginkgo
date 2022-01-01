@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee55b66b_2d19985b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 774
+      },
+      "writtenOn": "2022-01-01T02:38:42Z",
+      "side": 1,
+      "message": "we already have this rom side https://github.com/AICP/vendor_aicp/commit/6e72302d8e6d1607372380e847ab4392df416655",
+      "revId": "278ba100b0b8e23c5819bf4c4b65b55eeaf802cc",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
