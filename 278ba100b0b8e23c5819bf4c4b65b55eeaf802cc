@@ -16,6 +16,24 @@
       "message": "we already have this rom side https://github.com/AICP/vendor_aicp/commit/6e72302d8e6d1607372380e847ab4392df416655",
       "revId": "278ba100b0b8e23c5819bf4c4b65b55eeaf802cc",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af010d3d_2b590e68",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1904
+      },
+      "writtenOn": "2022-01-18T13:12:58Z",
+      "side": 1,
+      "message": "ohh I see, weirdly some users still can\u0027t access their bank apps even safetynet passess and renamed magisk with magisk hide. But happy to see it\u0027s on rom side now, I thought I was missing this",
+      "parentUuid": "ee55b66b_2d19985b",
+      "revId": "278ba100b0b8e23c5819bf4c4b65b55eeaf802cc",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
