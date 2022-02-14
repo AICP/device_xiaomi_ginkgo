@@ -1,13 +1,14 @@
 #
 # Copyright (C) 2020 ArrowOS
+# Copyright (C) 2020 AICP
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_ginkgo.mk
+    $(LOCAL_DIR)/aicp_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_ginkgo-user \
-    arrow_ginkgo-userdebug \
-    arrow_ginkgo-eng
+    aicp_ginkgo-user \
+    aicp_ginkgo-userdebug \
+    aicp_ginkgo-eng
