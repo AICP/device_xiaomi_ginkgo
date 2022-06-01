@@ -2,6 +2,6 @@
     {
         "repository":   "kernel_xiaomi_ginkgo",
         "target_path":  "kernel/xiaomi/ginkgo",
-	"branch":	"s12.0"
+	"branch":	"s12.1"
     }
 ]
