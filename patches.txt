@@ -1,0 +1,4 @@
+# pull patches from gerrit
+#
+# hardware/qcom-caf/sm8150/display
+110634/1 https://gerrit.aicp-rom.com hardware/qcom-caf/sm8150/display
