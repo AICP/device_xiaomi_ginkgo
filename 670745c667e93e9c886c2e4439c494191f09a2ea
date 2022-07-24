@@ -22,6 +22,30 @@
       },
       "revId": "670745c667e93e9c886c2e4439c494191f09a2ea",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ebf08860_3cd72c44",
+        "filename": "aicp.dependencies",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2022-07-24T02:41:51Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "eef256dc_d67883d0",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 27
+      },
+      "revId": "670745c667e93e9c886c2e4439c494191f09a2ea",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
