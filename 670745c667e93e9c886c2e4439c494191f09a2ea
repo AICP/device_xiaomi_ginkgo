@@ -46,6 +46,30 @@
       },
       "revId": "670745c667e93e9c886c2e4439c494191f09a2ea",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96c2af75_ebe6590f",
+        "filename": "aicp.dependencies",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1904
+      },
+      "writtenOn": "2022-07-24T03:43:35Z",
+      "side": 1,
+      "message": "Oh, I missed this set. Thanks for pointing it out. I really shouldn\u0027t doubted jenny",
+      "parentUuid": "ebf08860_3cd72c44",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 27
+      },
+      "revId": "670745c667e93e9c886c2e4439c494191f09a2ea",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
