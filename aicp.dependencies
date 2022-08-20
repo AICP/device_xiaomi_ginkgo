@@ -1,8 +1,8 @@
 [
     {
-        "repository": "PixelOS-Devices/kernel_xiaomi_ginkgo",
+        "repository": "AICP/kernel_xiaomi_ginkgo",
         "target_path": "kernel/xiaomi/ginkgo",
-        "branch": "twelve"
+        "branch": "r11.1"
     },
     {
         "repository": "LineageOS/android_vendor_qcom_opensource_healthd-ext",
