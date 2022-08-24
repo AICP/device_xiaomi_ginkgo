@@ -1,8 +1,8 @@
 [
     {
-        "repository": "AICP/kernel_xiaomi_ginkgo",
+        "repository": "Kitsunejasutin/kernel_msm-4.14",
         "target_path": "kernel/xiaomi/ginkgo",
-        "branch": "r11.1"
+        "branch": "sapphire"
     },
     {
         "repository": "LineageOS/android_vendor_qcom_opensource_healthd-ext",
